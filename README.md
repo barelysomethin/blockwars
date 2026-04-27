@@ -19,6 +19,7 @@ A real-time, multiplayer interactive grid application built with Next.js and Sup
 - **Backend & Database**: Supabase (PostgreSQL)
 - **Real-time Layer**: Supabase Realtime (WebSockets)
 - **Styling**: Vanilla CSS (Neobrutalism UI implementation)
+note:- project doesnt use socket io for websockets because it isnt deployable on the vercel.<img width="1897" height="915" alt="blockwars" src="https://github.com/user-attachments/assets/6233db0e-1442-4529-aa32-806d89acab21" />
 
 ## 🚀 Getting Started
 
@@ -56,6 +57,10 @@ npm run dev
 ```
 
 6. Open [http://localhost:3000](http://localhost:3000) in your browser. Open multiple windows or devices to see the real-time syncing in action!
+
+
+https://github.com/user-attachments/assets/2a0510cd-1377-4097-8fa7-019ff6b68863
+
 
 ## 💡 System Design Notes
 
